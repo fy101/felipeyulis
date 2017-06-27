@@ -1,6 +1,7 @@
 body {
   background-color: gray;
   font-family: 'Archivo Black', sans-serif;
+  font-weight: normal;
   text-align: center;
 }
 h1 {
