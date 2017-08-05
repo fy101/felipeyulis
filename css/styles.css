@@ -17,9 +17,12 @@ h4 {
   font-weight: normal;
   letter-spacing: 8px;
 }
+#links {
+  color: white;
+}
 a:link {
-	text-decoration: none;
+  text-decoration: none;
 }
 a:hover {
-	color: orange;
+  color: orange;
 }
